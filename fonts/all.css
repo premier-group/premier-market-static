@@ -1,9 +1,9 @@
 @font-face {
     font-family: 'FiraGO';
-    src: url('fonts/FiraGO-Bold.eot');
-    src: url('fonts/FiraGO-Bold.eot?#iefix') format('embedded-opentype'),
-        url('fonts/FiraGO-Bold.woff2') format('woff2'),
-        url('fonts/FiraGO-Bold.woff') format('woff');
+    src: url('FiraGO-Bold.eot');
+    src: url('FiraGO-Bold.eot?#iefix') format('embedded-opentype'),
+        url('FiraGO-Bold.woff2') format('woff2'),
+        url('FiraGO-Bold.woff') format('woff');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
@@ -11,10 +11,10 @@
 
 @font-face {
     font-family: 'FiraGO';
-    src: url('fonts/FiraGO-Regular.eot');
-    src: url('fonts/FiraGO-Regular.eot?#iefix') format('embedded-opentype'),
-        url('fonts/FiraGO-Regular.woff2') format('woff2'),
-        url('fonts/FiraGO-Regular.woff') format('woff');
+    src: url('FiraGO-Regular.eot');
+    src: url('FiraGO-Regular.eot?#iefix') format('embedded-opentype'),
+        url('FiraGO-Regular.woff2') format('woff2'),
+        url('FiraGO-Regular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
